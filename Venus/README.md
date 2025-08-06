@@ -11,5 +11,6 @@ Untuk mulai bermain di chapter ini, kamu cukup menggunakan SSH client dan koneks
 ```bash
 ssh hacker@venus.hackmyvm.eu -p 5000
 
-Password: havefun!
 ```
+
+Password: havefun!
