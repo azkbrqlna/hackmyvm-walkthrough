@@ -34,7 +34,9 @@ Walkthrough dalam repositori ini tidak menyertakan nilai flag yang sebenarnya. K
 | **Hades**      | 🔴 | [Baca Walkthrough Hades](hades.md)         |
 | **Temperance** | 🔴 | [Baca Walkthrough Temperance](temperance.md) |
 
-🟢 = Completed · 🟡 = In Progress · 🔴 = Not Started
+🟢 = Completed 
+🟡 = In Progress
+🔴 = Not Started
 
 ---
 
