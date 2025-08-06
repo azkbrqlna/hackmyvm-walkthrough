@@ -30,7 +30,7 @@ Walkthrough dalam repositori ini tidak menyertakan nilai flag yang sebenarnya. K
 
 | Chapter        | Status     | Link Walkthrough                 |
 |----------------|------------|----------------------------------|
-| **Venus**      | 🟡 | [Baca Walkthrough Venus](venus.md)         |
+| **Venus**      | 🟡 | [Baca Walkthrough Venus](/Venus)         |
 | **Hades**      | 🔴 | [Baca Walkthrough Hades](hades.md)         |
 | **Temperance** | 🔴 | [Baca Walkthrough Temperance](temperance.md) |
 
