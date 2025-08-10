@@ -21,20 +21,15 @@ Repositori ini saya susun menjadi tiga chapter pembelajaran:
 
 ---
 
-🚫 **Flag tidak ditampilkan!**  
-Walkthrough dalam repositori ini tidak menyertakan nilai flag yang sebenarnya. Kamu sangat disarankan untuk menyelesaikan setiap tantangan sendiri. Proses belajar akan jauh lebih bermakna (dan seru!) saat kamu berhasil menyelesaikannya dengan usahamu sendiri. 💪
-
----
-
 ## 📂 Chapter & Link Walkthrough
 
-| Chapter        | Status     | Link Walkthrough                 |
-|----------------|------------|----------------------------------|
-| **Venus**      | 🟡 | [Baca Walkthrough Venus](/Venus)         |
-| **Hades**      | 🔴 | [Baca Walkthrough Hades](hades.md)         |
-| **Temperance** | 🔴 | [Baca Walkthrough Temperance](temperance.md) |
+| Chapter        | Status | Link Walkthrough                             |
+| -------------- | ------ | -------------------------------------------- |
+| **Venus**      | 🟡     | [Baca Walkthrough Venus](/Venus)             |
+| **Hades**      | 🔴     | [Baca Walkthrough Hades](hades.md)           |
+| **Temperance** | 🔴     | [Baca Walkthrough Temperance](temperance.md) |
 
-🟢 = Completed 
+🟢 = Completed
 🟡 = In Progress
 🔴 = Not Started
 
