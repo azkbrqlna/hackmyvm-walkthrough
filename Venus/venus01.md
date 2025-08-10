@@ -43,3 +43,7 @@ Tugasnya cukup jelas yaitu menemukan file tersembunyi yang berisi password milik
    ```
 
 4. **Berhasil login** 🎉
+
+---
+
+flag : 8==Y1o645M3mR84ejc==D~~
