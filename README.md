@@ -37,6 +37,4 @@ Repositori ini saya susun menjadi tiga chapter pembelajaran:
 
 ## 📝 Catatan
 
-Repositori ini bersifat **living document** dan akan terus saya perbarui seiring dengan progress saya dalam menyelesaikan lab, memperdalam teknik, dan belajar hal-hal baru.
-
-Silakan gunakan struktur ini sebagai referensi pembelajaranmu sendiri, atau fork repositori ini untuk memulai perjalanan belajarmu juga.
+Repositori ini bersifat **living document** dan akan terus saya perbarui seiring dengan progress saya dalam menyelesaikan challenge, memperdalam teknik dalam bidang cyber, dan belajar hal-hal baru.
