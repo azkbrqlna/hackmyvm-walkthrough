@@ -12,14 +12,7 @@ Tugasnya cukup jelas yaitu menemukan file tersembunyi yang berisi password milik
 
 ## 🛠️ Langkah Penyelesaian
 
-1. **Masuk ke server Venus via SSH**
-
-   ```bash
-   ssh hacker@venus.hackmyvm.eu -p 5000
-   # Password: havefun!
-   ```
-
-2. **Melihat isi folder beserta file tersembunyi**  
+1. **Melihat isi folder beserta file tersembunyi**  
    Gunakan opsi `-la` pada perintah `ls` untuk menampilkan semua file, termasuk yang tersembunyi:
 
    ```bash
@@ -28,7 +21,7 @@ Tugasnya cukup jelas yaitu menemukan file tersembunyi yang berisi password milik
 
    Dari hasilnya, terlihat sebuah file bernama `.myhiddenpazz`.
 
-3. **Membaca isi file tersembunyi**  
+2. **Membaca isi file tersembunyi**  
    File `.myhiddenpazz` ternyata berisi password user **sophia**:
 
    ```bash
@@ -41,7 +34,7 @@ Tugasnya cukup jelas yaitu menemukan file tersembunyi yang berisi password milik
    Y1o645M3mR84ejc
    ```
 
-4. **Login sebagai user sophia**  
+3. **Login sebagai user sophia**  
    Gunakan perintah `su` untuk berganti user:
 
    ```bash
@@ -49,4 +42,4 @@ Tugasnya cukup jelas yaitu menemukan file tersembunyi yang berisi password milik
    # Password: Y1o645M3mR84ejc
    ```
 
-5. **Berhasil login** 🎉
+4. **Berhasil login** 🎉
